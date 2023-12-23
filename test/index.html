@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Render Products</title>
+  </head>
+  <body>
+    <ul id="productList"></ul>
+
+    <script>
+      const products = ["청바지", "반팔티", "맨투맨"];
+
+      const productList = products.map((product) => `<li>${product}</li>`);
+      console.log(productList);
+
+      const renderedList = productList.join("");
+      console.log(renderedList);
+
+      const productListContainer = document.getElementById("productList");
+      productListContainer.innerHTML = renderedList;
+    </script>
+  </body>
+</html>

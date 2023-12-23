@@ -31,6 +31,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2VR8yQWMPW45HahSlGooSQTWV0u" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="openDirectoriesWithSingleClick" value="true" />
@@ -42,7 +45,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/신보연/Developments/Modern-js&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/신보연/Developments/Programmers&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -62,29 +65,29 @@
       <recent name="C:\Users\신보연\Developments\Modern-js\seminar-02" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.35.01.js">
-    <configuration name="27.100.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Ch27/27.100.js" working-dir="$PROJECT_DIR$/Ch27">
+  <component name="RunManager" selected="Node.js.test.js">
+    <configuration name="01.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Programmers/02/01.js" working-dir="$PROJECT_DIR$/Programmers/02">
       <method v="2" />
     </configuration>
-    <configuration name="27.131.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Ch27/27.131.js" working-dir="$PROJECT_DIR$/Ch27">
+    <configuration name="36.20.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Ch36/36.20.js" working-dir="$PROJECT_DIR$/Ch36">
       <method v="2" />
     </configuration>
-    <configuration name="27.132.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Ch27/27.132.js" working-dir="$PROJECT_DIR$/Ch27">
+    <configuration name="36.21.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Ch36/36.21.js" working-dir="$PROJECT_DIR$/Ch36">
       <method v="2" />
     </configuration>
-    <configuration name="27.98.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Ch27/27.98.js" working-dir="$PROJECT_DIR$/Ch27">
+    <configuration name="36.22.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Ch36/36.22.js" working-dir="$PROJECT_DIR$/Ch36">
       <method v="2" />
     </configuration>
-    <configuration name="35.01.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Ch35/35.01.js" working-dir="$PROJECT_DIR$/Ch35">
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.35.01.js" />
-        <item itemvalue="Node.js.27.100.js" />
-        <item itemvalue="Node.js.27.98.js" />
-        <item itemvalue="Node.js.27.132.js" />
-        <item itemvalue="Node.js.27.131.js" />
+        <item itemvalue="Node.js.test.js" />
+        <item itemvalue="Node.js.01.js" />
+        <item itemvalue="Node.js.36.22.js" />
+        <item itemvalue="Node.js.36.21.js" />
+        <item itemvalue="Node.js.36.20.js" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +145,16 @@
       <workItem from="1700025213463" duration="6933000" />
       <workItem from="1700047019403" duration="620000" />
       <workItem from="1700316020665" duration="1458000" />
-      <workItem from="1700356595036" duration="1745000" />
+      <workItem from="1700356595036" duration="4812000" />
+      <workItem from="1700456152788" duration="3311000" />
+      <workItem from="1700494079226" duration="4588000" />
+      <workItem from="1700559223851" duration="8935000" />
+      <workItem from="1700609566733" duration="4153000" />
+      <workItem from="1700629858741" duration="2438000" />
+      <workItem from="1700636434752" duration="674000" />
+      <workItem from="1700645451546" duration="248000" />
+      <workItem from="1701250125985" duration="626000" />
+      <workItem from="1701256705492" duration="180000" />
     </task>
     <servers />
   </component>
@@ -161,6 +173,11 @@
           <url>file://$PROJECT_DIR$/Ch13/13.6.js</url>
           <line>14</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Ch35/35.20.js</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
